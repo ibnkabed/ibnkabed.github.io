@@ -82,3 +82,5 @@ python -m http.server 8777
 ## ربط نطاق خاص لاحقًا
 
 إن اشتريت نطاقًا (مثل `ibnkabed.com`): أنشئ ملف `CNAME` في جذر المستودع يحتوي على اسم النطاق فقط، ثم وجّه سجلات DNS إلى GitHub Pages. الرابط `ibnkabed.github.io` يبقى عاملًا بعدها.
+
+- **2026-11-19 (أمر المالك):** حلّ اسمه الكامل كما في حساب HUAWEI Developer (ALSHAMMARY, ABDULLAH METIB A) محل «Teacher and Writer» في البطاقة ووصف الصفحة، وأُضيفت صفحتا `sihha-privacy.html` و`sihha-terms.html` لطلب Health Service Kit من هواوي، ورابطاهما في التذييل.
