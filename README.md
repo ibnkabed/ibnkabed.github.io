@@ -84,3 +84,5 @@ python -m http.server 8777
 إن اشتريت نطاقًا (مثل `ibnkabed.com`): أنشئ ملف `CNAME` في جذر المستودع يحتوي على اسم النطاق فقط، ثم وجّه سجلات DNS إلى GitHub Pages. الرابط `ibnkabed.github.io` يبقى عاملًا بعدها.
 
 - **2026-11-19 (أمر المالك):** حلّ اسمه الكامل كما في حساب HUAWEI Developer (ALSHAMMARY, ABDULLAH METIB A) محل «Teacher and Writer» في البطاقة ووصف الصفحة، وأُضيفت صفحتا `sihha-privacy.html` و`sihha-terms.html` لطلب Health Service Kit من هواوي، ورابطاهما في التذييل.
+
+- **2026-11-22 (أمر المالك):** صورة جديدة للملف الشخصي (قصّ قريب على الوجه) حلّت محل صورة الشماغ في `assets/profile.jpg` و`assets/favicon.png` و`assets/icon.ico`، وهي الصورة نفسها التي يستخدمها المالك في منصاته.
