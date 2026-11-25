@@ -86,3 +86,4 @@ python -m http.server 8777
 - **2026-11-19 (أمر المالك):** حلّ اسمه الكامل كما في حساب HUAWEI Developer (ALSHAMMARY, ABDULLAH METIB A) محل «Teacher and Writer» في البطاقة ووصف الصفحة، وأُضيفت صفحتا `sihha-privacy.html` و`sihha-terms.html` لطلب Health Service Kit من هواوي، ورابطاهما في التذييل.
 
 - **2026-11-22 (أمر المالك):** صورة جديدة للملف الشخصي (قصّ قريب على الوجه) حلّت محل صورة الشماغ في `assets/profile.jpg` و`assets/favicon.png` و`assets/icon.ico`، وهي الصورة نفسها التي يستخدمها المالك في منصاته.
+- **2026-11-25:** reverted `index.html` to its state before 2026-11-19 at the owner's request: «Teacher and Writer» back on the card and in the meta descriptions, and the Sihha links removed from the footer. The pages `sihha-privacy.html` and `sihha-terms.html` stay in place.
