@@ -87,3 +87,4 @@ python -m http.server 8777
 
 - **2026-11-22 (أمر المالك):** صورة جديدة للملف الشخصي (قصّ قريب على الوجه) حلّت محل صورة الشماغ في `assets/profile.jpg` و`assets/favicon.png` و`assets/icon.ico`، وهي الصورة نفسها التي يستخدمها المالك في منصاته.
 - **2026-11-25:** reverted `index.html` to its state before 2026-11-19 at the owner's request: «Teacher and Writer» back on the card and in the meta descriptions, and the Sihha links removed from the footer. The pages `sihha-privacy.html` and `sihha-terms.html` stay in place.
+- **2026-11-25:** removed `sihha-privacy.html` and `sihha-terms.html` at the owner's request, after Huawei rejected the Health Kit application they were made for.
